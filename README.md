@@ -1,2 +1,8 @@
 # Market
-FirstFXProject,Simple GUI with Data Base 
+First JavaFX Project.
+Simple GUI
+Data Base [My sql] 
+
+
+
+
