@@ -9,7 +9,9 @@ Made By Me and My Friend [ Mahmoud Habib ]
 
 Most of FX Created by My Friend 
 
-I Created The Rest .
+I Implemented Data Base Conection  
+Created Tables 
+and Coded Button's Actions  
 
 # Description 
 
